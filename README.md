@@ -1,3 +1,3 @@
 ![](loja-demo.png)
 
-> Print tirado no dia 09:42.
+> Print tirado no dia 13/dez/24.
